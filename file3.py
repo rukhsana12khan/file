@@ -1,0 +1,6 @@
+f=open("file.txt","r")
+a=(f.readline())
+print(a)
+z=(f.readline())
+print(z)
+f.close()
